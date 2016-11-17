@@ -13,10 +13,10 @@ After search on each sub-map get converged, combine the ant from different sub-m
 ## Sample result
 This is the sample result of TSP225 problem.</br>
 Result of sub-maps:</br>
-![alt text](https://raw.githubusercontent.com/lightbluex/Evaluation-Ant-Colony-Optimization/master/sample_result/tsp225_submaps.jpg.jpg "sub-maps")
+![submaps_img](https://github.com/lightbluex/Evaluation-Ant-Colony-Optimization/blob/master/sample_result/tsp225_submaps.jpg?raw=true "sub-maps")
 </br>
 Final result:</br>
-![alt text](https://raw.githubusercontent.com/lightbluex/Evaluation-Ant-Colony-Optimization/master/sample_result/tsp225_final_result.jpg "sub-maps")
+![final_result_img](https://github.com/lightbluex/Evaluation-Ant-Colony-Optimization/blob/master/sample_result/tsp225_final_result.jpg?raw=true "sub-maps")
 
 ## Getting Started
 
